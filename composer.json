@@ -1,0 +1,10 @@
+{
+    "name": "testComposer",
+    "require": {
+        "ext-readline" : "*",
+        "shooyaaa/three" : "dev-master",
+        "symfony/dom-crawler" : "~4.0",
+        "symfony/css-selector" : "~4.0",
+        "symfony/polyfill-mbstring": "^1.7"
+    }
+}
